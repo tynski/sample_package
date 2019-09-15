@@ -1,0 +1,2 @@
+pkg-resources==0.0.0
+-e git+git@github.com:tynski/sample_package.git@f7d66022d70481b72ec963a9491923da69d06601#egg=sample_package
